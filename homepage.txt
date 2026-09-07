@@ -1,2 +1,2 @@
 core_v2
-net
+network
